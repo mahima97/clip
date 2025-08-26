@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+runs_*/
+best.pt
+epoch_*.pt
+bpe.json
+coco_caps_data/coco_caps/*.jpg
