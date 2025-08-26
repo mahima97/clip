@@ -1,0 +1,57 @@
+[
+  {
+    "file_name": "000000068130.jpg",
+    "image_path": "coco_caps_data/coco_caps/000000068130.jpg",
+    "captions": [
+      "a group of people crossing a city street ",
+      "A group of people cross a cross walk in a big city",
+      "a lot of people crossing a crosswalk ",
+      "Many people are crossing the street in front of some large buildings.",
+      "a photo taken on the corner facing old looking buildings"
+    ]
+  },
+  {
+    "file_name": "000000222195.jpg",
+    "image_path": "coco_caps_data/coco_caps/000000222195.jpg",
+    "captions": [
+      "A cay laying on top of a blue couch arm next to a wall.",
+      "A cat lying down with a packaged toothbrush on its head.",
+      "The cat is irritated that there is a packaged toothbrush resting on its head.",
+      "A close up view of cat carrying a toothbrush on its head.",
+      "A grey and black cat with a toothbrush on its head."
+    ]
+  },
+  {
+    "file_name": "000000133386.jpg",
+    "image_path": "coco_caps_data/coco_caps/000000133386.jpg",
+    "captions": [
+      "some people are on skateboards at a skate park",
+      "A skateboard park with many skateboarders doing different stunts ",
+      "The young man is practicing his tricks on his skateboard.",
+      "An edited photo showing a single boy performing various skateboard tricks in a single picture.",
+      "A kid performs many tricks while at the skate park."
+    ]
+  },
+  {
+    "file_name": "000000060513.jpg",
+    "image_path": "coco_caps_data/coco_caps/000000060513.jpg",
+    "captions": [
+      "A tall giraffe standing next to a building under trees.",
+      "Giraffe walking in front of a white building with a fence around it. ",
+      "A giraffe walking in front of a building near a wooded area.",
+      "A giraffe standing near trees and a building.",
+      "A giraffe that is walking in an enclosure. "
+    ]
+  },
+  {
+    "file_name": "000000410845.jpg",
+    "image_path": "coco_caps_data/coco_caps/000000410845.jpg",
+    "captions": [
+      "A table topped with plates of food and salad.",
+      "A table is set with lots of vegetables and jars.",
+      "A luncheon spread with tofu soup, broccoli, sliced vegetables and avocado.",
+      "A bowl of food sitting on a blue table cloth.",
+      "Several dishes contain a wide variety of vegetables."
+    ]
+  }
+]
